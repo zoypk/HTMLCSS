@@ -1,0 +1,28 @@
+.header {
+  width: 800px;
+  height: 150px;
+  border: 1px solid black;
+  position: relative;
+}
+
+.logo {
+  float: left;
+  width: 30px;
+  height: 15px;
+  border: solid;
+}
+
+.top-nav {
+  float: right;
+  width: 200px;
+  height: 150px;
+}
+
+.menu {
+  position: absolute;
+  top: 0;
+  border: solid black;
+  left: 85%;
+  width: 10%;
+  height: 30%;
+}
