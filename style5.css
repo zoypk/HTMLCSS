@@ -1,0 +1,19 @@
+body,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: #3498db;
+  float: left;
+}
