@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* Reset some default margin and padding for the whole page */
 body,
 h1,
 h2,
@@ -9,7 +7,7 @@ p {
   padding: 0;
 }
 
-/* Apply a background color and some spacing to the wrapper */
+
 .wrapper {
   background-color: #0000;
   margin: 10px;
@@ -17,7 +15,7 @@ p {
   overflow: hidden; /* Clear floats inside */
 }
 
-/* Style the header */
+
 .header {
   /* background-color: #333; */
   color: #000;
@@ -26,7 +24,7 @@ p {
   padding: 20px;
 }
 
-/* Style the sidebar */
+
 .sidebar {
   float: left;
   border: solid;
@@ -35,7 +33,7 @@ p {
   padding: 10px;
 }
 
-/* Style the main content */
+
 .main {
   float: right;
   width: 60%;
@@ -44,7 +42,7 @@ p {
   padding: 10px;
 }
 
-/* Style the footer */
+
 .footer {
   clear: both;
   border: solid;
